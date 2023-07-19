@@ -1,5 +1,4 @@
 {
-  [
   {
     "key": "a",
     "value": "空白",
@@ -15,5 +14,4 @@
     "value": "預かり",
     "disabled": false
   }
-]
 }
