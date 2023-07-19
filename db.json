@@ -1,4 +1,4 @@
-  {
+  "test":[{
     "key": "a",
     "value": "空白",
     "disabled": false
@@ -12,3 +12,4 @@
     "value": "預かり",
     "disabled": false
   }
+  ]
