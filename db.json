@@ -1,8 +1,8 @@
 {
-"test":[{
+"test": [
+  {
     "key": "a",
-    "value": "空白",
-    "disabled": false
+    "value": "空白"
   },
   {
     "key": "b",
@@ -10,8 +10,7 @@
   },
   {
     "key": "c",
-    "value": "預かり",
-    "disabled": false
+    "value": "預かり"
   }
   ]
 }
