@@ -1,4 +1,5 @@
-  "test":[{
+{
+"test":[{
     "key": "a",
     "value": "空白",
     "disabled": false
@@ -13,3 +14,4 @@
     "disabled": false
   }
   ]
+}
