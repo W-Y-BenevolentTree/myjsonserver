@@ -1,0 +1,17 @@
+[
+  {
+    'key': 'a',
+    'value': '空白',
+    'disabled': false
+  },
+  {
+    'key': 'b',
+    'value': '預け',
+    'disabled': false
+  },
+  {
+    'key': 'c',
+    'value': '預かり',
+    'disabled': false
+  }
+]
